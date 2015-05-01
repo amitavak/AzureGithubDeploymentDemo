@@ -1,0 +1,6 @@
+# Visual Studio Auto-Generated #
+*.suo
+*.user
+*/bin/
+*/obj/
+packages/
